@@ -1,4 +1,3 @@
-@'
 # Trivy-Based Security Scanner
 
 ## 1. Project Overview
